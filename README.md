@@ -13,7 +13,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfoliodhanashree.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanashree2311)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dhanashreebansode416)
 [![ISRO](https://img.shields.io/badge/Ex--ISRO_Intern-FF6B00?style=for-the-badge&logoColor=white)](#)
 [![Best Paper](https://img.shields.io/badge/Best_Paper-ICRETETM_2024-gold?style=for-the-badge)](#)
 
