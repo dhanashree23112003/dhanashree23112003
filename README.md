@@ -172,10 +172,9 @@ Model is **live and public on Hugging Face.**
 
 <div align="center">
 
-![Dhanashree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanashree23112003&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff)
+![Dhanashree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanashree23112003&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanashree23112003&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B00&text_color=ffffff)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanashree23112003&layout=compact&theme=tokyonight&hide_border=true)
 </div>
 
 ---
