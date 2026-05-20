@@ -168,14 +168,6 @@ Model is **live and public on Hugging Face.**
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Dhanashree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanashree23112003&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanashree23112003&layout=compact&theme=tokyonight&hide_border=true)
-</div>
 
 ---
 
